@@ -1,0 +1,9 @@
+problem stat
+ird
+use case
+desc
+srs
+class diag
+seq
+activity
+statechart
